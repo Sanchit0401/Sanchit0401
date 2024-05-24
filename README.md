@@ -22,7 +22,7 @@
 <p align="left">
 
 
-<a href="https://instagram.com/sanchit@@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv_cr710" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanchit__3357?igsh=MTlxbTl5c293b201bA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv_cr710" height="30" width="40" /></a>
 
 </p>
 
